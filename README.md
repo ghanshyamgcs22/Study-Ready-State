@@ -3,7 +3,7 @@
 
 ## Overview
 
-The Smart Study Environment Automation project is a creative solution to automate the transition from recreational activities to focused study sessions. By leveraging computer vision and automation, this project detects the presence of a predefined blue color in the webcam feed, signaling the system to put the computer into sleep mode.
+The Smart Study Environment Automation project is a creative solution to automate the transition from recreational activities to focused study sessions. By leveraging computer vision and automation, this project detects the presence of a predefined red color in the webcam feed, signaling the system to put the computer into sleep mode.
 
 ## Features
 
