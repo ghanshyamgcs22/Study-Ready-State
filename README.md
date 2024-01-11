@@ -25,3 +25,6 @@ The Smart Study Environment Automation project is a creative solution to automat
 
    ```bash
    pip install -r requirements.txt
+   pip install opencv
+   pip install pyautogui
+   pip install numpy
