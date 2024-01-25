@@ -17,8 +17,8 @@ The Smart Study Environment Automation project is a creative solution to automat
 
 2. Hang a blue material in the camera's view to serve as the detection trigger.
 
-3. Install the required dependencies using `requirements.txt`.
-   
+3. Install the required dependencies using `requirements.txt`.   
+
 4.opencv-python>=4.5.3
  numpy>=1.21.2
  pyautogui>=0.9.53 
